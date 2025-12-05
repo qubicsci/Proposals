@@ -27,12 +27,14 @@ Over 2024 & 2025 besides providing guidance, and presenting Qubic Science in int
 
 **December 2024:**
 
-- *Qubic AGI Journey Human and Artificial Intelligence: Toward an AGI with Aigarth*  
+- *Qubic AGI Journey Human and Artificial Intelligence: Toward an AGI with Aigarth*
+ <https://www.researchgate.net/publication/387364505_Qubic_AGI_Journey_Human_and_Artificial_Intelligence_Toward_an_AGI_with_Aigarth>  
   Outlining CFB’s Qubic AGI vision and it’s biological plausibility
 
 **November 2025**
 
 - *Neuraxon: A New Neural Growth & Computation Blueprint*  
+<https://www.researchgate.net/publication/397331336_Neuraxon>  
   Developing a fundamental open framework to build Aigarth vision.
 
 Now is the time to go deeper, and this is the aim of this first scientific proposal for 2026.
