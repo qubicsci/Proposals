@@ -87,11 +87,11 @@ After completing these steps, Neuraxon can be tested and hybridized in Qiner usi
 
 The Budget for this proposal will be only salaries evenly distributed in 2 equal parts between the 2 members of the science team, for 5 months so we can reserve and commit the needed time to move the initiative forward.  
 
-No Infrastructure, developers and suppliers are included and will be subject to future proposals if needed.  
+- No Infrastructure, developers and suppliers are included and will be subject to future proposals if needed.  
 
-No travel or events are included and will be subject to future proposals if needed.  
+- No travel or events are included and will be subject to future proposals if needed.  
 
-Integration and development with Qiner will be also subject to future proposals.
+- Integration and development with Qiner will be also subject to future proposals.
 
 ### Monthly Budget
 
