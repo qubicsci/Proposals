@@ -1,4 +1,4 @@
-# QUBIC AGI Research 2026 (1)
+# QUBIC AGI (True AI) Research 2026 (1)
 
 - **Amount:** 126 Billion QUBIC  
 - **Destination Wallet:** `MLPJCFNCQIZHGDRSCQIINRYVFQHDDFLDWJGNRRUBZDWSGCRDOJZNDZIHXBEA`  
@@ -21,7 +21,7 @@ It is clear that the main value proposition of Qubic is the bet on being a key r
 
 It is also clear that 2026 will be decisive to improve the chances of reaching that goal.
 
-When Dr. José Sanchez & David Vivancos started as Science Advisors by mid 2024, the task was to document and provide neuro scientific and AI evidence that the path Qubic was following was indeed aligned with a bioinspired approach and grounded in technical feasibility, as long as this can be, since there is no previous path to reach AGI, and it is a field to be built.
+When Dr. José Sanchez & David Vivancos started as Science Advisors by mid 2024, the task was to document and provide neuro scientific and AI evidence that the path Qubic was following was indeed aligned with a bioinspired approach and grounded in technical feasibility, as long as this can be, since there is no previous path to reach AGI (True AI), and it is a field to be built.
 
 Over 2024 & 2025 besides providing guidance, and presenting Qubic Science in international research venues, two key papers have been developed.
 
@@ -47,7 +47,7 @@ Over the past 18 months, we have served as Advisors within Ecosystem, with a lim
 
 Following the completion of Ecosystem, given the current state of AI amid large and dangerous technological monopolies and the positive tests of our new Neuraxon model as the foundation of a potential AGI, we propose that the scientific group (Sanchez & Vivancos) continues independently and expands its scope, commitment, and purpose by increasing its dedication to Qubic from being Science Advisors of Qubic to being Principal Research Scientist, part time (half/day) since this is the way to improve the chances of success.
 
-The work will be to follow the outlined path from the original Qubic Aigarth 2024 paper, and “simply” build the science that will support it, with the Neuraxon paper we paved the ground for what would be the basics of a true ai. 
+The work will be to follow the outlined path from the original Qubic Aigarth 2024 paper, and “simply” build the science that will support it, with the Neuraxon paper we paved the ground for what would be the basics of a True ai. 
 
 The work done in November & December 2025 already demonstrated it, by using the artificial life simulation, showing that the proposed architecture was indeed plausible. 
 
@@ -55,7 +55,7 @@ But now the next steps are to evolve it so it can really spark the light of “r
 
 To explain it in simple terms over the previous 70 years most of the AI developments that fuel the current generative AI revolution were based on a single simple neural architecture, the perceptron, minimally evolved since then.
 
-With Neuraxon we have challenged and updated that view, creating something that is really “alive” in the sense that there is no difference between training and inference or the execution and also by including all the advances of Neuroscience and AGI up to late 2025.
+With Neuraxon we have challenged and updated that view, creating something that is really “alive” in the sense that there is no difference between training and inference or the execution and also by including all the advances of Neuroscience, AI & AGI up to late 2025.
 
 Second, what we will do over the following 5 months of 2026 is to get this to the next level, by implementing and researching how these Neuraxons can follow evolutionary paths, be integrated with more complex architectures and show usefulness in problem solving. 
 
@@ -76,7 +76,7 @@ After completing these steps, Neuraxon can be tested and hybridized in Qiner usi
 - Monthly Interactive demos at Hugging Face: Learn & play for the Qubic Community  
 - Open data sets periodically at Hugging Face for the science community.  
 - The game of life, periodic updates and reviews, AI development for bio-inspired emerging intelligence  
-- Qubic Academy Neuraxon & AGI short course  
+- Qubic Academy Neuraxon & AGI (True AI) short course  
 - 2 monthly AMA´s  
 - X & Linkedin blog posts  
 - Collaboration to sync messages with Marketing team  
@@ -112,5 +112,5 @@ Monthly fees will be processed at the beginning of each month at the equivalent 
 
 | Role                    | Name      | Status            |
 |-------------------------|-----------|-------------------|
-| Principal AGI Researcher| Dr Sánchez| Part time In (Paid) |
-| Principal AGI Researcher| Vivancos  | Part time In (Paid) |
+| Principal AGI (True AI) Researcher| Dr Sánchez| Part time In (Paid) |
+| Principal AGI (True AI) Researcher| Vivancos  | Part time In (Paid) |
