@@ -104,7 +104,7 @@ The Budget for this proposal will be only salaries evenly distributed in 2 equal
 | May      | $19.000  |
 | **Total**| **$96.000** |
 
-Monthly fees will be processed at the beginning of each month at the equivalent Qubics at the transfer date, if at the end of May 2026 there are Qubics remaining they will be transferred back or subtracted from the next proposal request, if on the contrary Qubics run out before the 5 months,due to change fluctuations a new proposal will be issued.
+No additional funds to cover salary expenses of the Scientific department would be required until June 1st 2026, apart from additional proposals if needed for travel/infrastructure/outreach/events/or algorithm integration with the Qubic network.
 
 ---
 
