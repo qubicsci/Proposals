@@ -102,8 +102,8 @@ After completing these steps, Neuraxon can be tested and hybridized in Qiner usi
   - Visual interaction with new **Nxer** capabilities
 
 ### 📝 Publish
-- Update paper with new findings (through **Jan 15 ±**)
-- Submit original **Neuraxon** paper to **ICML 2026**
+- Update original **Neuraxon** paper with new findings (through **Jan 15 ±**)
+- Submit updated paper to **ICML 2026**
   - Deadline: **January 23, 2026**
   - Or a similar tier 1 or 2 venue
 
