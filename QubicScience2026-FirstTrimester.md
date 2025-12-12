@@ -41,7 +41,7 @@ Now is the time to go deeper, and this is the aim of this scientific proposal fo
 
 ---
 
-## Proposition
+## 🚀 Proposition
 
 Over the past 18 months, we have served as Advisors within Ecosystem, with a limited time and budget commitment, to audit and validate the ideas proposed by CfB regarding a decentralized general artificial intelligence within Qubic.
 
@@ -68,7 +68,7 @@ CfB´s Aigarth team will run in parallel and their outputs once published will b
 After completing these steps, Neuraxon can be tested and hybridized in Qiner using some Testnet nodes. A developer proposal may be necessary for that future integration. 
 
 
-## Actions summary 
+## 🧾 Actions summary 
 
 - Scientific paper #3 (Exploring the Results of Neuraxon) and sending it to available Tier1/2 conferences open in that timeframe.
 - Weekly updates Neuraxon code <https://github.com/DavidVivancos/Neuraxon>  
@@ -170,7 +170,7 @@ After completing these steps, Neuraxon can be tested and hybridized in Qiner usi
 
 ---
 
-## Budget request
+## 💰 Budget request
 
 The Budget for this proposal will be only salaries evenly distributed in 2 equal parts between the 2 members of the science team, for 3 months so we can reserve and commit the needed time to move the initiative forward.  
 
@@ -191,7 +191,7 @@ No additional funds to cover salary expenses of the Scientific department would 
 
 ---
 
-## Team
+## 👥Team
 
 | Role                    | Name      | Status            |
 |-------------------------|-----------|-------------------|
