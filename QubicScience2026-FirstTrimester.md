@@ -81,43 +81,92 @@ After completing these steps, Neuraxon can be tested and hybridized in Qiner usi
 - Collaboration to sync messages with Marketing team  
 
 
-## Research TimeLine & Milestones
+## 🧠 Research TimeLine & Milestones
 
-- January 2026: (Extensive Benchmark Study)
+---
 
-**Code:** Add new neuron behaviours, release Neuraxon Life 3.0 (Including new senses/act, interactions and social and environment simulation)
+## 📅 January 2026 — Extensive Benchmark Study
 
-**Dataset:** Recording NeuraxonLife 3.0 OpenDataset
+### 💻 Code
+- Add new neuron behaviours
+- Release **Neuraxon Life 3.0**
+  - New senses & actions
+  - Enhanced interactions
+  - Social & environmental simulation
 
-**Demos:** Lite Version of Life 3.0 (Visual interaction with the new Nxer capabilities)
+### 📊 Dataset
+- Record and prepare **Neuraxon Life 3.0 OpenDataset**
 
-**Publish:** Update (with new finding until Jan 15th+-) and submit original Neuraxon paper to ICML 2026 (deadline January 23rd) or similar venue
+### 🎮 Demos
+- **Neuraxon Life 3.0 (Lite)**
+  - Visual interaction with new **Nxer** capabilities
 
-Key Milestone: Transversal study results of Neuraxon Life 2.0. Implications of Game of life for Aigarth.
+### 📝 Publish
+- Update paper with new findings (through **Jan 15 ±**)
+- Submit original **Neuraxon** paper to **ICML 2026**
+  - Deadline: **January 23, 2026**
+  - Or a similar tier 1 or 2 venue
 
-- February 2026 (Neuro-Evolution)
+### ⭐ Key Milestone
+- Transversal study results of **Neuraxon Life 2.0**
+- Implications of **Game of Life–style dynamics** for **Aigarth**
 
-**Code:** Real World Neuraxon integration (Testing beyond simulation)
+---
 
-**Dataset:** Release New dataset NeuraxonLife 3.0 (Data size will depedend on computational requirements ideal target is 10X the size of 2.0)
+## 📅 February 2026 — Neuro-Evolution
 
-**Demos:** NeuraxonPlay (First exploration of playable Neuraxon physical devices)
+### 💻 Code
+- Real-world Neuraxon integration
+- Testing beyond simulation
 
-**Publish:** Work on 3rd paper about all Neuraxon results explored in parallel
+### 📊 Dataset
+- Release **Neuraxon Life 3.0 Dataset**
+  - Target size: **~10× larger than v2.0**
+  - Final size depends on computational constraints
 
-**Key Milestone:** Proof of physical interaction. (Neuraxon model could be applied to improve physical RL)
+### 🎮 Demos
+- **NeuraxonPlay**
+  - First exploration of playable Neuraxon on a physical device
 
-- March 2026 (Multi-Neuraxon Research)
+### 📝 Publish
+- Development of the **3rd Neuraxon paper**
+- With the consolidation of results explored in parallel
 
-**Code:** Code Multi-sphere Integration (Layered Neuraxon architecture, Linked Tisues like) 
+### ⭐ Key Milestone
+- Proof of **physical interaction**
+- Demonstrate applicability to **real-world / beyond physical RL**
 
-**Dataset:** Recording of Multi-Neuraxon Life 4.0 (implemented with deeper brain structures)
+---
 
-**Demos:** Multi-Neuraxon Navigator (Showing visually in 3d, realtime intricate new dynamics) 
+## 📅 March 2026 — Multi-Neuraxon Research
 
-**Key Milestone:** Finish and present 3rd paper to ALife 2026 (depending on submission deadline, not kwon atm) or similar venue + Code: release candidate Neuraxon model to be implemented to train in Qiner (python abstraction)
+### 💻 Code
+- Multi-sphere integration
+- Layered Neuraxon architecture
+  - Linked tissue-like structures
+  - Deeper brain abstractions
 
-**Next:** Refine 2nd Trimester Research Pipeline based on T1 2026 Insights & Feedback.
+### 📊 Dataset
+- Record **Multi-Neuraxon Life 4.0**
+  - Enhanced depth & hierarchical brain structures
+
+### 🎮 Demos
+- **Multi-Neuraxon Navigator**
+  - Real-time 3D visualization
+  - Emergent, intricate multi-dynamics
+
+### ⭐ Key Milestones
+- Finalize & present the **3rd paper** at **ALife 2026**
+  - Submission deadline TBD or to a similar Tier 1 or 2
+- **Code Release Candidate**
+  - Neuraxon model for training in **Qiner**
+  - Python abstraction 
+
+---
+
+## 🔄 Next Steps
+- Refine **T2 2026 Research Pipeline**
+- Incorporate insights and feedback from **T1 2026**
 
 ---
 
