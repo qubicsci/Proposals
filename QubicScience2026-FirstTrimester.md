@@ -85,29 +85,29 @@ After completing these steps, Neuraxon can be tested and hybridized in Qiner usi
 
 - January 2026: (Extensive Benchmark Study)
 
-Code: Add new neuron behaviours, release Neuraxon Life 3.0 (Including new senses/act, interactions and social and environment simulation)
-Dataset: Recording NeuraxonLife 3.0 OpenDataset
-Demos: Lite Version of Life 3.0 (Visual interaction with the new Nxer capabilities)
-Publish: Update (with new finding until Jan 15th+-) and submit original Neuraxon paper to ICML 2026 (deadline January 23rd) or similar venue
+**Code:** Add new neuron behaviours, release Neuraxon Life 3.0 (Including new senses/act, interactions and social and environment simulation)
+**Dataset:** Recording NeuraxonLife 3.0 OpenDataset
+**Demos:** Lite Version of Life 3.0 (Visual interaction with the new Nxer capabilities)
+**Publish:** Update (with new finding until Jan 15th+-) and submit original Neuraxon paper to ICML 2026 (deadline January 23rd) or similar venue
 
 Key Milestone: Transversal study results of Neuraxon Life 2.0. Implications of Game of life for Aigarth.
 
 - February 2026 (Neuro-Evolution)
 
-Code: Real World Neuraxon integration (Testing beyond simulation)
-Dataset: Release New dataset NeuraxonLife 3.0 (Data size will depedend on computational requirements ideal target is 10X the size of 2.0)
-Demos: NeuraxonPlay (First exploration of playable Neuraxon physical devices)
-Publish: Work on 3rd paper about all Neuraxon results explored in parallel
+**Code:** Real World Neuraxon integration (Testing beyond simulation)
+**Dataset:** Release New dataset NeuraxonLife 3.0 (Data size will depedend on computational requirements ideal target is 10X the size of 2.0)
+**Demos:** NeuraxonPlay (First exploration of playable Neuraxon physical devices)
+**Publish:** Work on 3rd paper about all Neuraxon results explored in parallel
 
-Key Milestone: Proof of physical interaction. (Neuraxon model could be applied to improve physical RL)
+**Key Milestone:** Proof of physical interaction. (Neuraxon model could be applied to improve physical RL)
 
 - March 2026 (Multi-Neuraxon Research)
 
-Code: Code Multi-sphere Integration (Layered Neuraxon architecture, Linked Tisues like) 
-Dataset: Recording of Multi-Neuraxon Life 4.0 (implemented with deeper brain structures)
-Demos: Multi-Neuraxon Navigator (Showing visually in 3d, realtime intricate new dynamics) 
-Key Milestone: Finish and present 3rd paper to ALife 2026 (depending on submission deadline, not kwon atm) or similar venue + Code: release candidate Neuraxon model to be implemented to train in Qiner (python abstraction)
-Next: Refine 2nd Trimester Research Pipeline based on T1 2026 Insights & Feedback.
+**Code:** Code Multi-sphere Integration (Layered Neuraxon architecture, Linked Tisues like) 
+**Dataset:** Recording of Multi-Neuraxon Life 4.0 (implemented with deeper brain structures)
+**Demos:** Multi-Neuraxon Navigator (Showing visually in 3d, realtime intricate new dynamics) 
+**Key Milestone:** Finish and present 3rd paper to ALife 2026 (depending on submission deadline, not kwon atm) or similar venue + Code: release candidate Neuraxon model to be implemented to train in Qiner (python abstraction)
+**Next:** Refine 2nd Trimester Research Pipeline based on T1 2026 Insights & Feedback.
 
 ---
 
