@@ -162,11 +162,9 @@ After completing these steps, Neuraxon can be tested and hybridized in Qiner usi
   - Neuraxon model for training in **Qiner**
   - Python abstraction 
 
----
-
-## 🔄 Next Steps
+## 🔄 Prep Next Steps
 - Refine **T2 2026 Research Pipeline**
-- Incorporate insights and feedback from **T1 2026**
+- Incorporate insights learnt and feedback from **T1 2026**
 
 ---
 
