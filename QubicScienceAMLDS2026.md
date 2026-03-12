@@ -16,6 +16,8 @@
 ## Introduction
 The Science publication path is a journey that could last years, and the first results of the paved way since 2024 to create and demonstrate the Science behind Qubic AI is starting to provide, with the first accepted paper at an international conference backed by very relevant institutions.
 
+![AMLDS 2026 Acceptance Letter](AceptanceAMLDS2026.jpg)
+
 ---
 
 ## 🚀 Proposition
