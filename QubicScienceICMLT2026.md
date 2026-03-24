@@ -17,7 +17,7 @@
 ## Introduction
 The Science publication path is a journey that is integral to the Qubic AI strategy, and a key difference with other projects, after the first accepted paper *"The Neutral Buffer State: Trinary Logic Advantage in Branching Ratio Stability for Continuous-Time Networks”*. Now also the foundational Neuraxon 2.0 paper has been accepted to be presented and published, a great milestone for Qubic Open Science.
 
-![AMLDS 2026 Acceptance Letter](NeuraxonICMLT-Aceptance2026Germany.jpg)
+![AMLDS 2026 Acceptance Letter](https://github.com/qubicsci/Proposals/blob/main/NeuraxonICMLT-Aceptance2026Germany.jpg)
 
 ## 🚀 Proposition
 The proposal is issued to be able to attend and present the Qubic Science paper *"Neuraxon V2.0 A New Neural Growth & Computation Blueprint”*, to cover the expenses of Dr. José Sanchez & David Vivancos in Berlin, Germany. 
