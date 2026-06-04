@@ -244,3 +244,261 @@ No additional funds to cover salary expenses of the Scientific department would 
 | ---------------------------------- | ----------- | ------------------------------ |
 | Principal AGI (True AI) Researcher | Dr. Sánchez | Part time (half/day) In (Paid) |
 | Principal AGI (True AI) Researcher | Vivancos    | Part time (half/day) In (Paid) |
+
+
+
+
+---
+
+
+
+
+# QUBIC AGI(真正的人工智能)研究 2026 第三季度 Q3
+
+* **金额：** 1195 亿 QUBIC
+* **接收钱包：** `MLPJCFNCQIZHGDRSCQIINRYVFQHDDFLDWJGNRRUBZDWSGCRDOJZNDZIHXBEA`
+* **采用汇率：** 10 亿 QUBIC = 479 USDT
+
+## 决策选项
+
+| 选项 | 说明                                                                         |
+| ---: | ---------------------------------------------------------------------------- |
+|    0 | 否 —— 不批准 57,000 美元预算（1195 亿 QU，按每 10 亿 479 美元计算）          |
+|    1 | 是 —— 批准 57,000 美元预算（1195 亿 QU，按每 10 亿 479 美元计算）            |
+
+---
+
+## 引言
+
+Qubic 开放科学团队（José Sanchez 博士与 David Vivancos）自 2024 年以来一直是 Qubic 不可或缺的组成部分，其目标是为使 Qubic 成为 AGI 领域的关键重要参与者奠定科学基础，遵循 CFB 自始以来所阐述的愿景,并在 2026 年给予更强有力的推动。
+
+本提案是朝着该目标持续推进的工作,延续并推进了 2026 年前两个季度 Q1 和 Q2 的工作。
+
+---
+
+## 2026 Q2 里程碑
+
+继 2026 Q1 之后，Q2 取得了若干关键进展：
+
+1. 开发并更新 Neuraxon 架构，包括以[代码](https://github.com/DavidVivancos/Neuraxon)、科学[论文](https://www.researchgate.net/publication/400868863_Neuraxon_V20_A_New_Neural_Growth_Computation_Blueprint)以及可运行的[演示](https://huggingface.co/spaces/DavidVivancos/MultiNeuraxon2)形式发布的 Multi Neuraxon 2.0 蓝图。
+
+2. 开发 3 篇新的科学论文：
+
+   * **Multi Neuraxon** —— 已提交至 [AGI 2026](https://agi-conference.org/) 并被接收。
+   * **Neuraxon Game of Life** —— 已提交至 [Alife 2026](https://2026.alife.org/)，等待评审。
+   * **Neuraxon 中的智能 G 因子** —— 已提交至 [Neurips 2026](https://neurips.cc/)，等待评审。
+
+3. 开发了 Neuraxon 生命游戏（GoL）的多个版本,包括研究版与精简版,直至 5.0 版本,其中包括多达 200 个内部版本,以在真实的竞争性计算仿真中探索该架构如何成为未来数字大脑的基础。
+
+4. 开发基于 GoL 5 的 Neuraxon Live 24/7 持续运行服务器/客户端 Neuraxon 生命游戏：[https://nxon.online](https://nxon.online)
+   同样为开源。
+
+5. 基于生命游戏各版本创建了多个数据集，包括用于探索大脑模型的 GoL 5.0 NAS（神经架构搜索）。
+
+6. 创建了首个物理证明，表明 Neuraxon 架构可在现实中用作控制 Sphero Mini 机器人的"大脑"。
+
+7. 以上述 3 篇额外的学术论文记录了科学基础，并将其提交至国际一线和二线（Tier 1 & 2）评审场所进行同行评审。由此达成了 2 篇新论文被接收的里程碑：
+
+   * Neuraxon 2.0
+   * Multi Neuraxon
+
+8. Neuraxon 2.0 论文被 ICMLT 接收，并于 2026 年 5 月在柏林举行的第 11 届机器学习技术大会上进行了现场展示，并荣获当晚最佳论文展示奖。
+
+9. Multi Neuraxon 论文被接收，将在 AGI 2026（第 19 届、也是全球 AGI 研究领域最主要的大会）上展示。已另行提出一份单独提案以涵盖相关费用。
+
+10. Aigarth 与 Neuraxon 杂交融合及大脑模型方面的研究，包括：
+
+    * Neuraxon 组织特化（Tissue Specialization）
+    * 临界性监测（Criticality monitoring）
+    * 元调制（Meta modulation）
+    * 强化学习（Reinforcement Learning）
+
+11. 探索三进制 Qubic 研究优势，已被 AMLDS 接收发表与展示，地点为日本大阪，时间为 7 月 21 日至 23 日。
+
+12. 为即将推出的 Neuraxon 3.0 候选版本进行科学基础工作。
+
+13. 持续推进全新的 Neuraxon 学院（Neuraxon Academy），通过定期文章与交互式演示，向各类受众讲解该架构的细节，同时介绍 AI 领域中与 Qubic 工作相关的关键新论文。
+
+14. 定期更新 GitHub 与 HuggingFace 上的数字开放仓库。
+
+15. 开发了用于在 Qubic 网络中教授并融合 Neuraxon Aigarth 的 Python 代码，已与 CFB 同步集成至蚁丘（ant-hill）状态中。向 Qiner 的集成与代码移植仍待办，将与 CyberPC 的核心开发者一同探索；如有需要,届时将另行提出单独提案。由于 Doge 工作、网络稳定化以及初始 Aigarth 蚁丘等其他网络优先事项,该项未在 Q2 中提出。
+
+16. 开发了开源 CUDA 内核与库，用于在 Nvidia 设备上执行/训练 Multi Neuraxon，为多达 500 万名开发者打开大门，并在 AI 研究社区中得到广泛使用。该项未包含在 Q2 提案中，但已交付。
+
+17. 为社区构建多个演示以传达科学成果，包括 NXSound（自 GoL 5 起也已集成,用于提供原型语言）以及即将推出的 Neuraxon-Kaleido 视觉作品。
+
+18. NIA 系列发布 —— 有助于更深入了解 Qubic、Aigarth 与 Nxon 科学：
+
+    * **NIA 第 1 卷：[为什么智能不是按步骤计算,而是在时间中计算](https://qubic.org/blog-detail/neuraxon-time-why-intelligence-is-not-computed-in-steps-but-in-time)**
+      探讨为什么生物智能在连续时间中运作,而非像传统大语言模型那样以离散计算步骤运作。
+    * **NIA 第 2 卷：[三进制动力学作为生命智能模型](https://qubic.org/blog-detail/beyond-binary-ternary-dynamics-as-a-model-of-living-intelligence)**
+      阐释三进制动力学,以及为什么三态逻辑（兴奋、中性、抑制）对建模生命系统至关重要。
+    * **NIA 第 3 卷：[神经调制与脑启发式 AI](https://qubic.org/blog-detail/neuromodulation-brain-inspired-ai-neuraxon-intelligence-academy-vol-3)**
+      介绍神经调制,以及大脑的化学信号传递（多巴胺、血清素、乙酰胆碱、去甲肾上腺素)如何启发 Neuraxon 的架构。
+    * **NIA 第 4 卷：[AI 与神经科学中的神经网络](https://qubic.org/blog-detail/neural-networks-biological-artificial-neuraxon-intelligence)**
+      对生物神经网络、人工神经网络与 Neuraxon 第三条路径方法的深入比较。
+    * **NIA 第 5 卷：[星形胶质细胞与脑启发式 AI](https://qubic.org/blog-detail/astrocytes-neuraxon-intelligence-academy-vol-5)**
+      星形胶质细胞门控如何通过 Neuraxon 中的 AGMP 框架改变神经网络可塑性。
+    * **NIA 第 6 卷：[有意识的机器 vs 有智能的有机体：AI 意识详解](https://qubic.org/blog-detail/conscious-machines-intelligent-organisms-ai-consciousness-neuraxon-vol-6)**
+      通过全局工作空间理论、整合信息理论与预测编码的视角探讨 AI 意识。
+    * **NIA 第 7 卷：[康威生命游戏、人工生命与数字生态系统](https://qubic.org/blog-detail/conways-game-of-life-artificial-life-digital-ecosystems-qubic-neuraxon-nia-vol-7)**
+      涌现复杂性与自组织临界性如何从模拟器走向去中心化 AI 基础设施。
+    * **NIA 第 8 卷：[神经网络与人工网络中的脑临界性与分支比](https://qubic.org/blog-detail/brain-criticality-branching-ratio-neural-artificial-networks-neuraxon-nia-vol-8)**
+      为什么接近 1 的分支比与自组织临界性是 Neuraxon 中的仿生设计原则。
+    * **NIA 第 9 卷：[人工生命中的 g 因子](https://qubic.org/blog-detail/g-factor-general-intelligence-artificial-life-neuraxon-nia-vol-9)**
+
+---
+
+## 🚀 提案
+
+2026 年第三季度科学团队的活动将旨在进一步研究并实现 Neuraxon 架构及其与 Aigarth 的杂交融合。
+
+这包括：
+
+* 在 Multi Neuraxon 范式下，推进 Aigarth Neuraxon 3.0 中人工智能测量 (g) 因子的演进。
+* 继续将 Neuraxon 服务器作为始终在线的数据采集平台,并实现各研究架构。
+* 支持开发团队进行 Qubic 网络训练集成。
+* 处理数据、科学论文与演示,以证据夯实愿景。
+* 为社区与利益相关方提供宣传推广,讲解科学与进展。
+* 与并行运行的 CfB Aigarth 团队协调,使其成果一经发布,便可再次与 Neuraxon 集成或杂交融合,以协同一致地运作。
+
+---
+
+## 🧾 行动摘要
+
+* **新科学论文：** "Neuraxon 3.0"以及其他与 Neuraxon 智能测量相关的论文,在相应时间窗口内将其投递至可投稿的一线/二线（Tier 1/2）会议。
+* **每周更新：** Neuraxon 代码（[GitHub 仓库](https://github.com/DavidVivancos/Neuraxon)）。
+* **交互式演示：** 在 Hugging Face 或类似平台,供 Qubic 社区学习与体验。
+* **开放数据集：** 定期在 Hugging Face 发布,供科学社区使用。
+* **生命游戏：** 定期更新与评审。面向仿生涌现智能的 AI 开发,包括 Neuraxon 24/7：[https://nxon.online](https://nxon.online)
+* **延续 Qubic 智能学院：** Neuraxon 与 AGI（真正的人工智能）。
+* **AMA：** 每月 2 场 AMA 问答活动。
+* **社交媒体：** X 与网络博客文章。
+* **协作：** 与市场团队同步信息。
+* **演讲展示：** 在国际场所展示论文与/或 Qubic 开放科学。
+  **注意：** 本提案不包括协助、注册费、差旅、住宿或任何其他费用；这些将另行提出单独提案。
+
+---
+
+# 🧠 研究时间线与里程碑
+
+## 📅 2026 年 7 月 —— Qubic 科学亮相大阪与旧金山 AGI 2026
+
+### 💻 代码
+
+* 演化动力学（Evolutionary Dynamics）
+* 初步开发 Neuraxon 生命游戏研究版 6
+
+### 📊 数据集
+
+* 记录并准备 Nxon Live 服务器数据集
+
+### 🎤 演讲与讨论
+
+* 大阪 AMLDS，7 月 21–23 日 —— Qubic 三进制优势
+* 旧金山 AGI 2026，7 月 27–30 日 —— 面向 AGI 的 Qubic Multi-Neuraxon
+
+### 📝 发布
+
+* 智能学院第 13–14 期：当前 AI 论文分析
+
+### ⭐ 关键里程碑
+
+* 向研究社区展示 Qubic 开放科学并展开交流。
+  差旅与费用另行提出单独提案。
+* 演化动力学研究
+
+---
+
+## 📅 2026 年 8 月 —— Neuraxon 3.0
+
+### 💻 代码
+
+* Neuraxon 3.0
+* 预测性大脑（The Predictive Brain）
+
+### 📊 数据集
+
+* 发布 Nxon Live 服务器数据集
+* 开始记录生命游戏 6 数据集
+
+### 🎮 演示
+
+* 生命游戏 6
+
+### 📝 发布
+
+* Neuraxon 3.0
+* 智能学院第 15–16 期：当前 AI 论文分析
+
+### ⭐ 关键里程碑
+
+* 发布 Neuraxon 3.0 预印本论文 + 代码
+* 预测性大脑研究
+
+---
+
+## 📅 2026 年 9 月 —— Neuraxon 遗传学
+
+### 💻 代码
+
+* Neuraxon 深度遗传学（Deep Genetics）
+* Nxon 规模化计算,若可能则在 Qubic 网络中以蚁群方式实现,否则采用多服务器方式
+
+### 📊 数据集
+
+* 发布生命游戏 6 的新开放数据集
+* 论文评估所需的其他相关数据集
+
+### 🎮 演示
+
+* NxonGene 基因池（Gene Pool）
+
+### 📝 发布
+
+* Neuraxon 4.0 候选版本
+* 向一线（Tier 1，可能为 ICLR 2027）与二线（Tier 2）会议投递论文
+* Neuraxon 智能学院第 17–18 期：当前 AI 论文分析
+
+### ⭐ 关键里程碑
+
+* Neuraxon + Aigarth 遗传蓝图
+* 集成时间线
+
+### 🔄 下一步准备
+
+* 优化 2026 Q4 研究流程
+* 吸收 2026 Q3 的经验与反馈
+
+---
+
+# 💰 预算请求
+
+本提案的预算仅为薪资,在科学团队 2 名成员之间平均分配为 2 等份,为期 3 个月,以便我们能够预留并投入推进该计划所需的时间。
+
+* 不包括任何基础设施、开发人员和供应商,如有需要将另行提出未来提案。
+* 不包括任何差旅或活动,如有需要将另行提出未来提案。
+* 与 Qiner 的集成与开发也将另行提出未来提案。
+
+## 每月预算
+
+| 月份     |       薪资 |
+| -------- | ---------: |
+| 7 月     |   $19,000 |
+| 8 月     |   $19,000 |
+| 9 月     |   $19,000 |
+| **合计** | **$57,000** |
+
+在 2026 年 10 月 1 日之前,除可能针对差旅、基础设施、宣传推广、活动或与 Qubic 网络的算法集成另行提出的提案外,无需额外资金来支付科学部门的薪资支出。
+
+---
+
+# 👥 团队
+
+| 角色                          | 姓名        | 状态                            |
+| ----------------------------- | ----------- | ------------------------------- |
+| 首席 AGI（真正的人工智能）研究员 | Sánchez 博士 | 兼职(每日半天) 在岗(已支付薪酬) |
+| 首席 AGI（真正的人工智能）研究员 | Vivancos    | 兼职(每日半天) 在岗(已支付薪酬) |
+
+
+
