@@ -1,4 +1,4 @@
-# QUBIC AGI (True AI) Research 2026 Third Trimester Q3
+# QUBIC AGI (True AI) Research 2026 Third Trimester Q3  - 中文翻译见下方
 
 * **Amount:** 119.50 Billion QUBIC
 * **Destination Wallet:** `MLPJCFNCQIZHGDRSCQIINRYVFQHDDFLDWJGNRRUBZDWSGCRDOJZNDZIHXBEA`
