@@ -216,9 +216,9 @@ The budget for this proposal will be only salaries evenly distributed in 2 equal
 
 | Month     | Salaries |
 | --------- | -------- |
-| July      | $19,000  |
-| August    | $19,000  |
-| September | $19,000  |
+| October      | $19,000  |
+| November    | $19,000  |
+| December | $19,000  |
 | Total     | $57,000  |
 
 *No additional funds to cover salary expenses of the Scientific department would be required until January 1st, 2027, apart from additional proposals if needed for travel/infrastructure/outreach/events/or algorithm integration with the Qubic network.*
@@ -442,9 +442,9 @@ Qubic 开放科学团队（Dr. José Sanchez 与 David Vivancos）自 2024 年�
 
 | 月份 | 工资 |
 | ---- | ---- |
-| 7 月 | $19,000 |
-| 8 月 | $19,000 |
-| 9 月 | $19,000 |
+| 10 月 | $19,000 |
+| 11 月 | $19,000 |
+| 12 月 | $19,000 |
 | 合计 | $57,000 |
 
 *除旅行、基础设施、外联、活动或与 Qubic 网络的算法集成等如有需要需另行提案的项目外，在 2027 年 1 月 1 日之前，科学部门无需额外资金来覆盖工资支出。*
